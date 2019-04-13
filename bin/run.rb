@@ -1,6 +1,6 @@
 require_relative '../config/environment'
 
-Hashie
+get 'Hashie'
 Sinatra
 Octokit
 Pry
